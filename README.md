@@ -1,5 +1,5 @@
 # Avaliação de PWII
-
+## 📅 **Data de Entrega:** 03/05/2025
 ## 📝 Descrição da Atividade
 
 Nesta atividade de **Programação Web II (PWII)**, os alunos deverão desenvolver a interface e a lógica de uma aplicação básica com páginas em PHP, utilizando conexão com banco de dados e estilização via CSS.
